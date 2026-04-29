@@ -6,7 +6,7 @@
         1000,
         50
       ],
-      "tensorPath": "https://drive.google.com/uc?export=download&id=1x-5YOGFl2ioK4OsBLza-gr6FmBHoEKDb",
+      "tensorPath": "https://huggingface.co/datasets/diogosil01/vectors/raw/main/vectors_final.tsv",
       "metadataPath": "https://raw.githubusercontent.com/diogosil01/embeddings-viewer/main/metadata.tsv"
     }
   ]
