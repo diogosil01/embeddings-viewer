@@ -2,12 +2,9 @@
   "embeddings": [
     {
       "tensorName": "My tensor",
-      "tensorShape": [
-        1000,
-        50
-      ],
-      "tensorPath": "https://raw.githubusercontent.com/diogosil01/embeddings-viewer/tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/diogosil01/embeddings-viewer/metadata.tsv"
+      "tensorShape": [1000, 50],
+      "tensorPath": "https://raw.githubusercontent.com/diogosil01/embeddings-viewer/main/tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/diogosil01/embeddings-viewer/main/metadata.tsv"
     }
   ]
 }
